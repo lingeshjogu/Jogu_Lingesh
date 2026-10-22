@@ -5,7 +5,7 @@
 // ============================================================
 
 export const profile = {
-  name: 'Lingesh Jogus',
+  name: 'Lingesh Jogu',
   role: 'Software Developer',
   email: 'Lingeshofficial99@gmail.com',
   phone: '+91-6302426948',
